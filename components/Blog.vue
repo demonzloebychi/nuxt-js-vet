@@ -64,10 +64,12 @@
     max-width: 290px;
     padding: 10px;
     border-radius: 10px;
-
+    text-decoration: none;
+    color: #000;
   }
   .blog-item img {
     max-width: 100%;
     height: auto;
   }
+  
   </style>

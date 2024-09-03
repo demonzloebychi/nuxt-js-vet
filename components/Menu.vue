@@ -1,15 +1,15 @@
 <template>
     <ul class="menu">
         <li>
-            <router-link to="/">Главная</router-link>
+            <NuxtLink to="/">Главная</NuxtLink>
 
         </li>
         <li>
-            <router-link to="/doctors">Врачи</router-link>
+            <NuxtLink to="/doctors">Врачи</NuxtLink>
 
         </li>
         <li>
-            <router-link to="/blog">Блог</router-link>
+            <NuxtLink to="/blog">Блог</NuxtLink>
 
         </li>
     </ul>
